@@ -1,0 +1,53 @@
+```
+# Compiled/Build artifacts
+*.mq5c
+*.ex5
+*.obj
+*.o
+*.out
+
+# Dependencies and build directories
+include/
+lib/
+libs/
+dependencies/
+node_modules/
+vendor/
+
+# Test coverage and reports
+coverage/
+htmlcov/
+.coverage
+*.coverage
+
+# Logs
+*.log
+test-results.log
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Distribution/Build artifacts
+dist/
+build/
+target/
+bin/
+obj/
+```
